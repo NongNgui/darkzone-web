@@ -1,0 +1,26 @@
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* จัดกลางในแนวนอน */
+    justify-content: center; /* จัดกลางในแนวตั้ง */
+    height: 100vh; /* ทำให้ container สูงเต็มหน้าจอ */
+  }
+  
+  .button-container {
+    margin: 10px; /* เพิ่มระยะห่างระหว่างปุ่ม */
+  }
+  
+  .big-button {
+    padding: 20px 40px;
+    font-size: 24px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .big-button:hover {
+    background-color: #45a049;
+  }
+  
