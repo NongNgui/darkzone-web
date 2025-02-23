@@ -14,13 +14,13 @@ export default function Home() {
       />
       
       <div className="button-container">
-        <a href="minecraft://?addExternalServer=MiningSim|pm2.mc4.in:21143">
+        <a href="minecraft://?addExternalServer=DarkZone|85.203.4.112:19132">
           <button className="big-button">Added Server</button>
         </a>
       </div>
 
       <div className="button-container">
-        <a href="minecraft://connect?serverUrl=pm2.mc4.in&serverPort=21143">
+        <a href="minecraft://connect?serverUrl=85.203.4.112&serverPort=19132">
           <button className="big-button">Connect to Server</button>
         </a>
       </div>

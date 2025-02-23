@@ -13,8 +13,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Mining Simulator",
-  description: "Made By NongNgui",
+  title: "DarkZone Online",
+  description: "MMORPG Dungeon & Crawler Server",
 };
 
 export default function RootLayout({ children }) {
